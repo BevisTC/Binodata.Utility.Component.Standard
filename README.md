@@ -1,5 +1,5 @@
 # Binodata.Utility.Component.Standard
-Binodata.Utility.Component for .net standare
+Binodata.Utility.Component for .net Standard
 
 # How to use
 ```C#
